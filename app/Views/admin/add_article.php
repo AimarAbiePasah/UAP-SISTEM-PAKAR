@@ -10,7 +10,7 @@
   width: $size;
   height: $size;
 }
-
+/*tampilan artickle
 /* Global Box Sizing and Font Smoothing */
 *, *:before, *:after {
   box-sizing: border-box;
